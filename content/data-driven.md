@@ -3,9 +3,9 @@ title: Sample data driven page using eclectic.
 content:
   - type: carousel
     title: Shapes
-    items:
+    items: 
       - title: Circle
-        content: A plane curve everywhere equidistant from a given fixed point, the center.
+        content: A plane curve everywhere equidistant from a given fixed point, the center. 
       - title: Squares
         content: A plane figure having four equal sides.
       - title: Triangle

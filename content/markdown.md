@@ -34,16 +34,16 @@ Also a # tag.
 * This is a list element
 + This is also a list element
 - This is also a list element
-    - This is a sublist element
-    + Also a sublist element
-        + Sublist level 2
-        1. Numbered sublist
-        2. Next item
-            1. Next indent level
+     - This is a sublist element
+     + Also a sublist element
+       + Sublist level 2
+       1. Numbered sublist
+       2. Next item
+             1. Next indent level
 
 1) Numbered list
 2) Next item
-    1. Next indent level
+     1. Next indent level
         * Sublist non numbered
 3. Back
 
@@ -163,11 +163,11 @@ With highlighting:
 
 ```javascript {linenos=true,hl_lines=[2,"4-6"],linenostart=199}
 while (!success) {
-    tryAgain();
-    attempt++;
-    if (Dead) {
-        break;
-    }
+  tryAgain();
+  attempt++;
+  if (Dead) {
+    break;
+  }
 }
 ```
 

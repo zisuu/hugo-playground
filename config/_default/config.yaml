@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://chapter-04-07.hugoinaction.com
 languageCode: en-us
 title: Acme Corporation
 theme: Eclectic
 enableEmoji: true
-
+enableGitInfo: true

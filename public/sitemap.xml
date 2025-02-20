@@ -6,22 +6,98 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-20T07:19:09+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/credits/</loc>
-  </url><url>
-    <loc>http://localhost:1313/markdown/</loc>
-  </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/terms/</loc>
+    <loc>http://localhost:1313/blog/process-4/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/data-driven/</loc>
+    <loc>http://localhost:1313/categories/circle/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/manufacturing/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/manufacturing/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/process-3/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/process-2/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/square/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/line/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/process-1/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/community/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2025-02-18T23:19:58+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/credits/</loc>
+    <lastmod>2025-02-20T07:19:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/markdown/</loc>
+    <lastmod>2025-02-20T07:19:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/privacy/</loc>
+    <lastmod>2025-02-20T07:19:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/terms/</loc>
+    <lastmod>2025-02-20T07:19:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/building-squares/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/circle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/community/circle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/community/curve/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/design/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/general/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/line/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/product/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/public/</loc>
+  </url><url>
+    <loc>http://localhost:1313/data-driven/</loc>
+    <lastmod>2025-02-20T07:19:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/shape/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/shape/</loc>
+  </url><url>
+    <loc>http://localhost:1313/news/shaper/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/square/</loc>
+  </url><url>
+    <loc>http://localhost:1313/news/square-license/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/style/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/triangle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/tropical-triangles/</loc>
   </url>
 </urlset>
