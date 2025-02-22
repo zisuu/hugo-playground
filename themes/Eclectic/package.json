@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/atishay/eclectic-hugo-theme#readme",
   "dependencies": {
-    "include-media": "^1.4.9",
+    "include-media": "^2.0.0",
     "line-awesome": "github:icons8/line-awesome"
   },
   "devDependencies": {
