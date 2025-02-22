@@ -202,3 +202,40 @@ Bob
 Gabby
 : Cool Content Master
 : Cautious
+
+## Shortcodes
+
+*Youtube*
+{{< youtube nLAVanlu5js >}}
+
+
+*Highlight*
+{{< highlight js 
+"linenos=table,hl_lines=3-4,linenostart=1080" >}}
+// Enjoy your work
+if (!tired()) {
+    keepCoding();
+} else {
+    drinkCoffee();
+}
+{{</ highlight >}}
+
+{{< highlight html "linenos=table,hl_lines=2 ,linenostart=1080" >}}
+<!-- Generated Youtube source code for video -->
+{{</* youtube nLAVanlu5js */>}}
+<!-- Output -->
+{{< youtube nLAVanlu5js >}}
+{{</ highlight >}}
+
+
+## Inline shortcodes.
+
+### Inline Shortcode declaration and first use
+{{% reuse.inline %}}A programmer's wife sends him to the grocery with instructions: **Get a loaf of bread and if they have eggs, get a dozen**. He came back with a dozen loafs of bread: **They had eggs.**
+{{% /reuse.inline %}}
+
+### Shortcode usage as HTML
+{{< reuse.inline />}}
+
+### Shortcode usage as Markup
+{{% reuse.inline /%}}

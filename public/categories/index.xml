@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Acme Corporation</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 21:04:04 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Circle</title>
@@ -41,7 +41,7 @@
       <link>http://localhost:1313/categories/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/design/</guid>
-      <description></description>
+      <description>&lt;p&gt;The design category is the heart of what we do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>General</title>
