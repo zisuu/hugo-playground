@@ -26,6 +26,6 @@
     "line-awesome": "github:icons8/line-awesome"
   },
   "devDependencies": {
-    "fs-extra": "^8.0.1"
+    "fs-extra": "^11.0.0"
   }
 }
